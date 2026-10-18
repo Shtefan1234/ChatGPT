@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+*.egg
+
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Тесты / кэши
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ИДЕ
+.idea/
+.vscode/
+
+# Логи
+*.log
